@@ -30,8 +30,8 @@
 
 | **연구 논문** |                                                              |
 | ------------- | ------------------------------------------------------------ |
-| 2020.03       | WWW (World Wide Web)  Conference 2020  공동 1저자     -      논문 제목 : I’ve Got Your Packages: Harvesting  Customers’ Delivery Order Information using Package Tracking Number  Enumeration Attacks  -      논문 내용 : 국제 택배 회사 3사(UPS, DHL, FedEx)를 대상으로 네트워크 프로토콜 분석을 통한 API 운송장 번호 순차 대입 공격을 이용한 개인정보 유출 위험성 및 해결방안 제시 |
-| 2020.08       | ACISP ( Australasian Conference on Information Security and  Privacy) 2020  1저자     -      논문 제목 : Design and Evaluation of Enumeration  Attacks on Package Tracking Systems  -      논문 내용 : 국내  택배 회사 5사(대한통운, 우체국, 롯데, 로젠, 한진)를 대상으로 네트워크 프로토콜 분석을 통한 API 운송장  번호 순차대입 공격을 이용해 마스킹 되지 않은 사용자 개인정보 유출 취약점 확인 및 해결방안 제시 |
+| 2020.03       | WWW (World Wide Web)  Conference 2020  공동 1저자     -      논문 제목 : I’ve Got Your Packages: Harvesting  Customers’ Delivery Order Information using Package Tracking Number  Enumeration Attacks (https://dl.acm.org/doi/10.1145/3366423.3380062)  -      논문 내용 : 국제 택배 회사 3사(UPS, DHL, FedEx)를 대상으로 네트워크 프로토콜 분석을 통한 API 운송장 번호 순차 대입 공격을 이용한 개인정보 유출 위험성 및 해결방안 제시 |
+| 2020.08       | ACISP ( Australasian Conference on Information Security and  Privacy) 2020  1저자     -      논문 제목 : Design and Evaluation of Enumeration  Attacks on Package Tracking Systems (https://link.springer.com/chapter/10.1007/978-3-030-55304-3_28) -      논문 내용 : 국내  택배 회사 5사(대한통운, 우체국, 롯데, 로젠, 한진)를 대상으로 네트워크 프로토콜 분석을 통한 API 운송장  번호 순차대입 공격을 이용해 마스킹 되지 않은 사용자 개인정보 유출 취약점 확인 및 해결방안 제시 |
 
  
 
